@@ -19,3 +19,5 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+OBS: Gostei bastante pois me ajudou a como usar as VM, usa o Kali Linux e aprender os comandos do Linux
